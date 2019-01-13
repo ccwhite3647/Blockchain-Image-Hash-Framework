@@ -1,0 +1,317 @@
+Image: peppers_color
+---------------------------------------------------
+gaus_1.png:
+	Best Score: 0.0 using AverageHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.0
+	PHash: 			(8)  0.03125
+	BlockMeanHash: 		(8)  0.00390625
+	MarrHildrethHash: 	(8)  0.001736111111111111
+	RadialVarianceHash: 	(8)  3.1572808056123947E-4
+---------------------------------------------------
+gaus_2.png:
+	Best Score: 0.003074814189925279 using RadialVarianceHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.03125
+	PHash: 			(8)  0.0625
+	BlockMeanHash: 		(8)  0.00390625
+	MarrHildrethHash: 	(8)  0.012152777777777778
+	RadialVarianceHash: 	(8)  0.003074814189925279
+---------------------------------------------------
+gaus_3.png:
+	Best Score: 0.00390625 using BlockMeanHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.0625
+	PHash: 			(8)  0.0625
+	BlockMeanHash: 		(8)  0.00390625
+	MarrHildrethHash: 	(8)  0.024305555555555556
+	RadialVarianceHash: 	(8)  0.006761122787170781
+---------------------------------------------------
+gaus_4.png:
+	Best Score: 0.0078125 using BlockMeanHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.0625
+	PHash: 			(8)  0.0625
+	BlockMeanHash: 		(8)  0.0078125
+	MarrHildrethHash: 	(8)  0.027777777777777776
+	RadialVarianceHash: 	(8)  0.012928569273694457
+---------------------------------------------------
+gaus_5.png:
+	Best Score: 0.015625 using BlockMeanHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.078125
+	PHash: 			(8)  0.078125
+	BlockMeanHash: 		(8)  0.015625
+	MarrHildrethHash: 	(8)  0.03993055555555555
+	RadialVarianceHash: 	(8)  0.020331868962772393
+---------------------------------------------------
+gaus_6.png:
+	Best Score: 0.01953125 using BlockMeanHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.078125
+	PHash: 			(8)  0.078125
+	BlockMeanHash: 		(8)  0.01953125
+	MarrHildrethHash: 	(8)  0.057291666666666664
+	RadialVarianceHash: 	(8)  0.02905824173101379
+---------------------------------------------------
+gaus_7.png:
+	Best Score: 0.01953125 using BlockMeanHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.109375
+	PHash: 			(8)  0.078125
+	BlockMeanHash: 		(8)  0.01953125
+	MarrHildrethHash: 	(8)  0.06770833333333333
+	RadialVarianceHash: 	(8)  0.03950242145603278
+---------------------------------------------------
+gaus_8.png:
+	Best Score: 0.03515625 using BlockMeanHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.109375
+	PHash: 			(8)  0.078125
+	BlockMeanHash: 		(8)  0.03515625
+	MarrHildrethHash: 	(8)  0.0798611111111111
+	RadialVarianceHash: 	(8)  0.0507388720830062
+---------------------------------------------------
+gaus_9.png:
+	Best Score: 0.05078125 using BlockMeanHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.109375
+	PHash: 			(8)  0.078125
+	BlockMeanHash: 		(8)  0.05078125
+	MarrHildrethHash: 	(8)  0.10069444444444445
+	RadialVarianceHash: 	(8)  0.06342799565266277
+---------------------------------------------------
+---------------------------------------------------
+
+
+---------------------------------------------------
+---------------------------------------------------
+rotate_1.png:
+	Best Score: 0.2631083652734979 using RadialVarianceHash
+	Image Found: images/experiment/lena.tif (5)
+
+	AverageHash: 		(8)  0.296875
+	PHash: 			(8)  0.296875
+	BlockMeanHash: 		(8)  0.296875
+	MarrHildrethHash: 	(8)  0.3836805555555556
+	RadialVarianceHash: 	(5)  0.2631083652734979
+---------------------------------------------------
+rotate_2.png:
+	Best Score: 0.35460521640622833 using RadialVarianceHash
+	Image Found: images/experiment/livingroom.tif (6)
+
+	AverageHash: 		(5)  0.359375
+	PHash: 			(9)  0.40625
+	BlockMeanHash: 		(8)  0.40234375
+	MarrHildrethHash: 	(9)  0.4409722222222222
+	RadialVarianceHash: 	(6)  0.35460521640622833
+---------------------------------------------------
+rotate_3.png:
+	Best Score: 0.375 using AverageHash
+	Image Found: images/experiment/cameraman.tif (1)
+
+	AverageHash: 		(1)  0.375
+	PHash: 			(3)  0.453125
+	BlockMeanHash: 		(4)  0.41796875
+	MarrHildrethHash: 	(5)  0.4548611111111111
+	RadialVarianceHash: 	(9)  0.4088431414419993
+---------------------------------------------------
+rotate_4.png:
+	Best Score: 0.34375 using PHash
+	Image Found: images/experiment/woman_darkhair.tif (12)
+
+	AverageHash: 		(6)  0.390625
+	PHash: 			(12)  0.34375
+	BlockMeanHash: 		(4)  0.3828125
+	MarrHildrethHash: 	(2)  0.4427083333333333
+	RadialVarianceHash: 	(9)  0.4268308425680919
+---------------------------------------------------
+rotate_5.png:
+	Best Score: 0.21460484276740965 using RadialVarianceHash
+	Image Found: images/experiment/pirate.tif (9)
+
+	AverageHash: 		(6)  0.40625
+	PHash: 			(4)  0.421875
+	BlockMeanHash: 		(4)  0.36328125
+	MarrHildrethHash: 	(4)  0.4618055555555556
+	RadialVarianceHash: 	(9)  0.21460484276740965
+---------------------------------------------------
+rotate_6.png:
+	Best Score: 0.2969389783804042 using RadialVarianceHash
+	Image Found: images/experiment/pirate.tif (9)
+
+	AverageHash: 		(4)  0.390625
+	PHash: 			(12)  0.4375
+	BlockMeanHash: 		(4)  0.35546875
+	MarrHildrethHash: 	(10)  0.4305555555555556
+	RadialVarianceHash: 	(9)  0.2969389783804042
+---------------------------------------------------
+rotate_7.png:
+	Best Score: 0.3671875 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.4375
+	PHash: 			(5)  0.390625
+	BlockMeanHash: 		(4)  0.3671875
+	MarrHildrethHash: 	(3)  0.4479166666666667
+	RadialVarianceHash: 	(9)  0.48589315942079847
+---------------------------------------------------
+rotate_8.png:
+	Best Score: 0.390625 using AverageHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.390625
+	PHash: 			(5)  0.4375
+	BlockMeanHash: 		(4)  0.39453125
+	MarrHildrethHash: 	(3)  0.4548611111111111
+	RadialVarianceHash: 	(9)  0.4134977149124327
+---------------------------------------------------
+rotate_9.png:
+	Best Score: 0.40234375 using BlockMeanHash
+	Image Found: images/experiment/pirate.tif (9)
+
+	AverageHash: 		(9)  0.4375
+	PHash: 			(5)  0.4375
+	BlockMeanHash: 		(9)  0.40234375
+	MarrHildrethHash: 	(6)  0.4479166666666667
+	RadialVarianceHash: 	(4)  0.41555548111852036
+---------------------------------------------------
+---------------------------------------------------
+
+
+---------------------------------------------------
+---------------------------------------------------
+crop_1.png:
+	Best Score: 0.03647227416803012 using RadialVarianceHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.234375
+	PHash: 			(8)  0.21875
+	BlockMeanHash: 		(8)  0.203125
+	MarrHildrethHash: 	(8)  0.2916666666666667
+	RadialVarianceHash: 	(8)  0.03647227416803012
+---------------------------------------------------
+crop_2.png:
+	Best Score: 0.07171420633769021 using RadialVarianceHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.34375
+	PHash: 			(8)  0.34375
+	BlockMeanHash: 		(8)  0.3046875
+	MarrHildrethHash: 	(5)  0.4253472222222222
+	RadialVarianceHash: 	(8)  0.07171420633769021
+---------------------------------------------------
+crop_3.png:
+	Best Score: 0.09659041748225428 using RadialVarianceHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(10)  0.453125
+	PHash: 			(11)  0.421875
+	BlockMeanHash: 		(8)  0.44921875
+	MarrHildrethHash: 	(5)  0.4305555555555556
+	RadialVarianceHash: 	(8)  0.09659041748225428
+---------------------------------------------------
+crop_4.png:
+	Best Score: 0.1967391863782726 using RadialVarianceHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.453125
+	PHash: 			(11)  0.40625
+	BlockMeanHash: 		(2)  0.47265625
+	MarrHildrethHash: 	(5)  0.4461805555555556
+	RadialVarianceHash: 	(8)  0.1967391863782726
+---------------------------------------------------
+crop_5.png:
+	Best Score: 0.26137371879810833 using RadialVarianceHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.421875
+	PHash: 			(9)  0.390625
+	BlockMeanHash: 		(9)  0.42578125
+	MarrHildrethHash: 	(11)  0.453125
+	RadialVarianceHash: 	(8)  0.26137371879810833
+---------------------------------------------------
+crop_6.png:
+	Best Score: 0.359375 using PHash
+	Image Found: images/experiment/cameraman.tif (1)
+
+	AverageHash: 		(1)  0.4375
+	PHash: 			(1)  0.359375
+	BlockMeanHash: 		(9)  0.4375
+	MarrHildrethHash: 	(7)  0.4288194444444444
+	RadialVarianceHash: 	(2)  0.3792031789895073
+---------------------------------------------------
+crop_7.png:
+	Best Score: 0.3150047449125648 using RadialVarianceHash
+	Image Found: images/experiment/jetplane.tif (3)
+
+	AverageHash: 		(5)  0.421875
+	PHash: 			(1)  0.421875
+	BlockMeanHash: 		(7)  0.4375
+	MarrHildrethHash: 	(4)  0.40625
+	RadialVarianceHash: 	(3)  0.3150047449125648
+---------------------------------------------------
+crop_8.png:
+	Best Score: 0.3463949352881085 using RadialVarianceHash
+	Image Found: images/experiment/jetplane.tif (3)
+
+	AverageHash: 		(11)  0.375
+	PHash: 			(4)  0.4375
+	BlockMeanHash: 		(11)  0.375
+	MarrHildrethHash: 	(5)  0.4826388888888889
+	RadialVarianceHash: 	(3)  0.3463949352881085
+---------------------------------------------------
+crop_9.png:
+	Best Score: 0.390625 using AverageHash
+	Image Found: images/experiment/woman_darkhair.tif (12)
+
+	AverageHash: 		(12)  0.390625
+	PHash: 			(5)  0.421875
+	BlockMeanHash: 		(3)  0.41015625
+	MarrHildrethHash: 	(7)  0.4409722222222222
+	RadialVarianceHash: 	(3)  0.4269901293561762
+---------------------------------------------------
+---------------------------------------------------
+
+
+---------------------------------------------------
+---------------------------------------------------
+flip_both.png:
+	Best Score: 0.001423715569344286 using RadialVarianceHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(8)  0.28125
+	PHash: 			(9)  0.4375
+	BlockMeanHash: 		(8)  0.4296875
+	MarrHildrethHash: 	(8)  0.4513888888888889
+	RadialVarianceHash: 	(8)  0.001423715569344286
+---------------------------------------------------
+flip_horizontal.png:
+	Best Score: 0.359375 using PHash
+	Image Found: images/experiment/pirate.tif (9)
+
+	AverageHash: 		(9)  0.390625
+	PHash: 			(9)  0.359375
+	BlockMeanHash: 		(8)  0.4296875
+	MarrHildrethHash: 	(6)  0.4479166666666667
+	RadialVarianceHash: 	(7)  0.36512531073935717
+---------------------------------------------------
+flip_vertical.png:
+	Best Score: 0.3698861614525668 using RadialVarianceHash
+	Image Found: images/experiment/mandril_color.tif (7)
+
+	AverageHash: 		(7)  0.4375
+	PHash: 			(7)  0.4375
+	BlockMeanHash: 		(11)  0.48828125
+	MarrHildrethHash: 	(9)  0.4548611111111111
+	RadialVarianceHash: 	(7)  0.3698861614525668
+---------------------------------------------------

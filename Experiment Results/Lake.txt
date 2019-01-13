@@ -1,0 +1,317 @@
+Image: lake
+---------------------------------------------------
+gaus_1.png:
+	Best Score: 0.0 using AverageHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.0
+	PHash: 			(4)  0.015625
+	BlockMeanHash: 		(4)  0.0
+	MarrHildrethHash: 	(4)  0.001736111111111111
+	RadialVarianceHash: 	(4)  5.622986178505096E-4
+---------------------------------------------------
+gaus_2.png:
+	Best Score: 0.0 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.046875
+	PHash: 			(4)  0.0625
+	BlockMeanHash: 		(4)  0.0
+	MarrHildrethHash: 	(4)  0.012152777777777778
+	RadialVarianceHash: 	(4)  0.008337461141810665
+---------------------------------------------------
+gaus_3.png:
+	Best Score: 0.00390625 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.0625
+	PHash: 			(4)  0.09375
+	BlockMeanHash: 		(4)  0.00390625
+	MarrHildrethHash: 	(4)  0.015625
+	RadialVarianceHash: 	(4)  0.02502132590570516
+---------------------------------------------------
+gaus_4.png:
+	Best Score: 0.00390625 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.078125
+	PHash: 			(4)  0.125
+	BlockMeanHash: 		(4)  0.00390625
+	MarrHildrethHash: 	(4)  0.022569444444444444
+	RadialVarianceHash: 	(4)  0.049334125190026334
+---------------------------------------------------
+gaus_5.png:
+	Best Score: 0.0078125 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.078125
+	PHash: 			(4)  0.125
+	BlockMeanHash: 		(4)  0.0078125
+	MarrHildrethHash: 	(4)  0.04513888888888889
+	RadialVarianceHash: 	(4)  0.07537870991393758
+---------------------------------------------------
+gaus_6.png:
+	Best Score: 0.0078125 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.09375
+	PHash: 			(4)  0.125
+	BlockMeanHash: 		(4)  0.0078125
+	MarrHildrethHash: 	(4)  0.06770833333333333
+	RadialVarianceHash: 	(4)  0.09980340147975797
+---------------------------------------------------
+gaus_7.png:
+	Best Score: 0.015625 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.09375
+	PHash: 			(4)  0.125
+	BlockMeanHash: 		(4)  0.015625
+	MarrHildrethHash: 	(4)  0.0798611111111111
+	RadialVarianceHash: 	(4)  0.12460182922389429
+---------------------------------------------------
+gaus_8.png:
+	Best Score: 0.0234375 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.09375
+	PHash: 			(4)  0.125
+	BlockMeanHash: 		(4)  0.0234375
+	MarrHildrethHash: 	(4)  0.10243055555555555
+	RadialVarianceHash: 	(4)  0.14689675625569942
+---------------------------------------------------
+gaus_9.png:
+	Best Score: 0.03515625 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.09375
+	PHash: 			(4)  0.125
+	BlockMeanHash: 		(4)  0.03515625
+	MarrHildrethHash: 	(4)  0.13020833333333334
+	RadialVarianceHash: 	(4)  0.1689404984976709
+---------------------------------------------------
+---------------------------------------------------
+
+
+---------------------------------------------------
+---------------------------------------------------
+rotate_1.png:
+	Best Score: 0.16015625 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.234375
+	PHash: 			(4)  0.28125
+	BlockMeanHash: 		(4)  0.16015625
+	MarrHildrethHash: 	(4)  0.4479166666666667
+	RadialVarianceHash: 	(12)  0.46061773730421796
+---------------------------------------------------
+rotate_2.png:
+	Best Score: 0.26953125 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.3125
+	PHash: 			(3)  0.390625
+	BlockMeanHash: 		(4)  0.26953125
+	MarrHildrethHash: 	(3)  0.46875
+	RadialVarianceHash: 	(2)  0.4409994127277469
+---------------------------------------------------
+rotate_3.png:
+	Best Score: 0.33203125 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.375
+	PHash: 			(5)  0.375
+	BlockMeanHash: 		(4)  0.33203125
+	MarrHildrethHash: 	(2)  0.484375
+	RadialVarianceHash: 	(8)  0.4222824650140925
+---------------------------------------------------
+rotate_4.png:
+	Best Score: 0.375 using PHash
+	Image Found: images/experiment/peppers_color.tif (8)
+
+	AverageHash: 		(5)  0.4375
+	PHash: 			(8)  0.375
+	BlockMeanHash: 		(4)  0.41015625
+	MarrHildrethHash: 	(11)  0.4739583333333333
+	RadialVarianceHash: 	(6)  0.43760125523927207
+---------------------------------------------------
+rotate_5.png:
+	Best Score: 0.30213604080615997 using RadialVarianceHash
+	Image Found: images/experiment/walkbridge.tif (10)
+
+	AverageHash: 		(5)  0.421875
+	PHash: 			(11)  0.390625
+	BlockMeanHash: 		(5)  0.44140625
+	MarrHildrethHash: 	(6)  0.453125
+	RadialVarianceHash: 	(10)  0.30213604080615997
+---------------------------------------------------
+rotate_6.png:
+	Best Score: 0.28971093776394663 using RadialVarianceHash
+	Image Found: images/experiment/walkbridge.tif (10)
+
+	AverageHash: 		(2)  0.4375
+	PHash: 			(6)  0.375
+	BlockMeanHash: 		(11)  0.44921875
+	MarrHildrethHash: 	(3)  0.453125
+	RadialVarianceHash: 	(10)  0.28971093776394663
+---------------------------------------------------
+rotate_7.png:
+	Best Score: 0.40069444844625446 using RadialVarianceHash
+	Image Found: images/experiment/walkbridge.tif (10)
+
+	AverageHash: 		(3)  0.4375
+	PHash: 			(3)  0.453125
+	BlockMeanHash: 		(6)  0.4765625
+	MarrHildrethHash: 	(3)  0.4392361111111111
+	RadialVarianceHash: 	(10)  0.40069444844625446
+---------------------------------------------------
+rotate_8.png:
+	Best Score: 0.42365070353839807 using RadialVarianceHash
+	Image Found: images/experiment/walkbridge.tif (10)
+
+	AverageHash: 		(3)  0.4375
+	PHash: 			(2)  0.4375
+	BlockMeanHash: 		(8)  0.4453125
+	MarrHildrethHash: 	(3)  0.4635416666666667
+	RadialVarianceHash: 	(10)  0.42365070353839807
+---------------------------------------------------
+rotate_9.png:
+	Best Score: 0.3209770284677147 using RadialVarianceHash
+	Image Found: images/experiment/lena.tif (5)
+
+	AverageHash: 		(8)  0.40625
+	PHash: 			(12)  0.390625
+	BlockMeanHash: 		(8)  0.4375
+	MarrHildrethHash: 	(8)  0.4583333333333333
+	RadialVarianceHash: 	(5)  0.3209770284677147
+---------------------------------------------------
+---------------------------------------------------
+
+
+---------------------------------------------------
+---------------------------------------------------
+crop_1.png:
+	Best Score: 0.019711293045387213 using RadialVarianceHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.28125
+	PHash: 			(4)  0.140625
+	BlockMeanHash: 		(4)  0.11328125
+	MarrHildrethHash: 	(4)  0.3663194444444444
+	RadialVarianceHash: 	(4)  0.019711293045387213
+---------------------------------------------------
+crop_2.png:
+	Best Score: 0.06965370913966784 using RadialVarianceHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.25
+	PHash: 			(4)  0.296875
+	BlockMeanHash: 		(4)  0.15625
+	MarrHildrethHash: 	(9)  0.4722222222222222
+	RadialVarianceHash: 	(4)  0.06965370913966784
+---------------------------------------------------
+crop_3.png:
+	Best Score: 0.1674841365654265 using RadialVarianceHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.234375
+	PHash: 			(6)  0.375
+	BlockMeanHash: 		(4)  0.2265625
+	MarrHildrethHash: 	(10)  0.4479166666666667
+	RadialVarianceHash: 	(4)  0.1674841365654265
+---------------------------------------------------
+crop_4.png:
+	Best Score: 0.21923350383122264 using RadialVarianceHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(3)  0.34375
+	PHash: 			(4)  0.40625
+	BlockMeanHash: 		(4)  0.29296875
+	MarrHildrethHash: 	(9)  0.4739583333333333
+	RadialVarianceHash: 	(4)  0.21923350383122264
+---------------------------------------------------
+crop_5.png:
+	Best Score: 0.28260268793674237 using RadialVarianceHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(3)  0.34375
+	PHash: 			(5)  0.375
+	BlockMeanHash: 		(6)  0.34375
+	MarrHildrethHash: 	(10)  0.4513888888888889
+	RadialVarianceHash: 	(4)  0.28260268793674237
+---------------------------------------------------
+crop_6.png:
+	Best Score: 0.296875 using AverageHash
+	Image Found: images/experiment/house.tif (2)
+
+	AverageHash: 		(2)  0.296875
+	PHash: 			(3)  0.390625
+	BlockMeanHash: 		(3)  0.33984375
+	MarrHildrethHash: 	(10)  0.4375
+	RadialVarianceHash: 	(4)  0.31125218111958375
+---------------------------------------------------
+crop_7.png:
+	Best Score: 0.296875 using BlockMeanHash
+	Image Found: images/experiment/jetplane.tif (3)
+
+	AverageHash: 		(2)  0.3125
+	PHash: 			(6)  0.34375
+	BlockMeanHash: 		(3)  0.296875
+	MarrHildrethHash: 	(6)  0.4270833333333333
+	RadialVarianceHash: 	(4)  0.347817311966677
+---------------------------------------------------
+crop_8.png:
+	Best Score: 0.234375 using AverageHash
+	Image Found: images/experiment/house.tif (2)
+
+	AverageHash: 		(2)  0.234375
+	PHash: 			(2)  0.359375
+	BlockMeanHash: 		(2)  0.28125
+	MarrHildrethHash: 	(10)  0.4409722222222222
+	RadialVarianceHash: 	(4)  0.3285545769464686
+---------------------------------------------------
+crop_9.png:
+	Best Score: 0.21875 using AverageHash
+	Image Found: images/experiment/house.tif (2)
+
+	AverageHash: 		(2)  0.21875
+	PHash: 			(3)  0.25
+	BlockMeanHash: 		(2)  0.2421875
+	MarrHildrethHash: 	(12)  0.421875
+	RadialVarianceHash: 	(4)  0.40108700564000255
+---------------------------------------------------
+---------------------------------------------------
+
+
+---------------------------------------------------
+---------------------------------------------------
+flip_both.png:
+	Best Score: 0.007793821924142907 using RadialVarianceHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(2)  0.4375
+	PHash: 			(1)  0.390625
+	BlockMeanHash: 		(4)  0.375
+	MarrHildrethHash: 	(7)  0.4479166666666667
+	RadialVarianceHash: 	(4)  0.007793821924142907
+---------------------------------------------------
+flip_horizontal.png:
+	Best Score: 0.21875 using AverageHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(4)  0.21875
+	PHash: 			(10)  0.359375
+	BlockMeanHash: 		(4)  0.234375
+	MarrHildrethHash: 	(4)  0.34375
+	RadialVarianceHash: 	(2)  0.48934655929058823
+---------------------------------------------------
+flip_vertical.png:
+	Best Score: 0.3125 using BlockMeanHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(12)  0.375
+	PHash: 			(6)  0.40625
+	BlockMeanHash: 		(4)  0.3125
+	MarrHildrethHash: 	(1)  0.4166666666666667
+	RadialVarianceHash: 	(2)  0.4896473339373404
+---------------------------------------------------

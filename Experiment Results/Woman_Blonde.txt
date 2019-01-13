@@ -1,0 +1,317 @@
+Image: woman_blonde
+---------------------------------------------------
+gaus_1.png:
+	Best Score: 0.0 using PHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(11)  0.015625
+	PHash: 			(11)  0.0
+	BlockMeanHash: 		(11)  0.0
+	MarrHildrethHash: 	(11)  0.0
+	RadialVarianceHash: 	(11)  7.581913441765398E-4
+---------------------------------------------------
+gaus_2.png:
+	Best Score: 0.0 using PHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(11)  0.03125
+	PHash: 			(11)  0.0
+	BlockMeanHash: 		(11)  0.0078125
+	MarrHildrethHash: 	(11)  0.006944444444444444
+	RadialVarianceHash: 	(11)  0.010720598058675201
+---------------------------------------------------
+gaus_3.png:
+	Best Score: 0.01171875 using BlockMeanHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(11)  0.046875
+	PHash: 			(11)  0.015625
+	BlockMeanHash: 		(11)  0.01171875
+	MarrHildrethHash: 	(11)  0.015625
+	RadialVarianceHash: 	(11)  0.031891844874448405
+---------------------------------------------------
+gaus_4.png:
+	Best Score: 0.01953125 using BlockMeanHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(11)  0.0625
+	PHash: 			(11)  0.03125
+	BlockMeanHash: 		(11)  0.01953125
+	MarrHildrethHash: 	(11)  0.027777777777777776
+	RadialVarianceHash: 	(11)  0.06449628723876277
+---------------------------------------------------
+gaus_5.png:
+	Best Score: 0.01953125 using BlockMeanHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(11)  0.09375
+	PHash: 			(11)  0.03125
+	BlockMeanHash: 		(11)  0.01953125
+	MarrHildrethHash: 	(11)  0.03125
+	RadialVarianceHash: 	(11)  0.10450195924671091
+---------------------------------------------------
+gaus_6.png:
+	Best Score: 0.01953125 using BlockMeanHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(11)  0.125
+	PHash: 			(11)  0.03125
+	BlockMeanHash: 		(11)  0.01953125
+	MarrHildrethHash: 	(11)  0.043402777777777776
+	RadialVarianceHash: 	(11)  0.15151375597350691
+---------------------------------------------------
+gaus_7.png:
+	Best Score: 0.03125 using PHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(11)  0.125
+	PHash: 			(11)  0.03125
+	BlockMeanHash: 		(11)  0.03515625
+	MarrHildrethHash: 	(11)  0.059027777777777776
+	RadialVarianceHash: 	(11)  0.20435730805760843
+---------------------------------------------------
+gaus_8.png:
+	Best Score: 0.03125 using PHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(11)  0.15625
+	PHash: 			(11)  0.03125
+	BlockMeanHash: 		(11)  0.0390625
+	MarrHildrethHash: 	(11)  0.06944444444444445
+	RadialVarianceHash: 	(11)  0.25849018434906457
+---------------------------------------------------
+gaus_9.png:
+	Best Score: 0.03125 using PHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(11)  0.15625
+	PHash: 			(11)  0.03125
+	BlockMeanHash: 		(11)  0.046875
+	MarrHildrethHash: 	(11)  0.08854166666666667
+	RadialVarianceHash: 	(8)  0.29408273540163377
+---------------------------------------------------
+---------------------------------------------------
+
+
+---------------------------------------------------
+---------------------------------------------------
+rotate_1.png:
+	Best Score: 0.24609375 using BlockMeanHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(11)  0.3125
+	PHash: 			(11)  0.296875
+	BlockMeanHash: 		(11)  0.24609375
+	MarrHildrethHash: 	(11)  0.3263888888888889
+	RadialVarianceHash: 	(6)  0.30257606663034164
+---------------------------------------------------
+rotate_2.png:
+	Best Score: 0.21708551007258658 using RadialVarianceHash
+	Image Found: images/experiment/livingroom.tif (6)
+
+	AverageHash: 		(6)  0.34375
+	PHash: 			(11)  0.359375
+	BlockMeanHash: 		(11)  0.328125
+	MarrHildrethHash: 	(5)  0.4427083333333333
+	RadialVarianceHash: 	(6)  0.21708551007258658
+---------------------------------------------------
+rotate_3.png:
+	Best Score: 0.27453009567055053 using RadialVarianceHash
+	Image Found: images/experiment/livingroom.tif (6)
+
+	AverageHash: 		(11)  0.328125
+	PHash: 			(11)  0.390625
+	BlockMeanHash: 		(11)  0.33984375
+	MarrHildrethHash: 	(5)  0.4253472222222222
+	RadialVarianceHash: 	(6)  0.27453009567055053
+---------------------------------------------------
+rotate_4.png:
+	Best Score: 0.30859375 using BlockMeanHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(6)  0.3125
+	PHash: 			(11)  0.40625
+	BlockMeanHash: 		(11)  0.30859375
+	MarrHildrethHash: 	(5)  0.4149305555555556
+	RadialVarianceHash: 	(12)  0.33916364039614655
+---------------------------------------------------
+rotate_5.png:
+	Best Score: 0.296875 using PHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(1)  0.34375
+	PHash: 			(11)  0.296875
+	BlockMeanHash: 		(11)  0.33984375
+	MarrHildrethHash: 	(5)  0.4392361111111111
+	RadialVarianceHash: 	(9)  0.41587573740528305
+---------------------------------------------------
+rotate_6.png:
+	Best Score: 0.3380317099364871 using RadialVarianceHash
+	Image Found: images/experiment/pirate.tif (9)
+
+	AverageHash: 		(1)  0.359375
+	PHash: 			(11)  0.4375
+	BlockMeanHash: 		(11)  0.35546875
+	MarrHildrethHash: 	(1)  0.4618055555555556
+	RadialVarianceHash: 	(9)  0.3380317099364871
+---------------------------------------------------
+rotate_7.png:
+	Best Score: 0.2684413350852931 using RadialVarianceHash
+	Image Found: images/experiment/pirate.tif (9)
+
+	AverageHash: 		(6)  0.390625
+	PHash: 			(11)  0.40625
+	BlockMeanHash: 		(4)  0.38671875
+	MarrHildrethHash: 	(11)  0.4583333333333333
+	RadialVarianceHash: 	(9)  0.2684413350852931
+---------------------------------------------------
+rotate_8.png:
+	Best Score: 0.328125 using AverageHash
+	Image Found: images/experiment/cameraman.tif (1)
+
+	AverageHash: 		(1)  0.328125
+	PHash: 			(11)  0.40625
+	BlockMeanHash: 		(11)  0.359375
+	MarrHildrethHash: 	(11)  0.4427083333333333
+	RadialVarianceHash: 	(6)  0.3753449202401987
+---------------------------------------------------
+rotate_9.png:
+	Best Score: 0.3422685748013585 using RadialVarianceHash
+	Image Found: images/experiment/cameraman.tif (1)
+
+	AverageHash: 		(6)  0.359375
+	PHash: 			(11)  0.421875
+	BlockMeanHash: 		(11)  0.39453125
+	MarrHildrethHash: 	(10)  0.4583333333333333
+	RadialVarianceHash: 	(1)  0.3422685748013585
+---------------------------------------------------
+---------------------------------------------------
+
+
+---------------------------------------------------
+---------------------------------------------------
+crop_1.png:
+	Best Score: 0.04115765462053278 using RadialVarianceHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(11)  0.25
+	PHash: 			(11)  0.28125
+	BlockMeanHash: 		(11)  0.19921875
+	MarrHildrethHash: 	(11)  0.3177083333333333
+	RadialVarianceHash: 	(11)  0.04115765462053278
+---------------------------------------------------
+crop_2.png:
+	Best Score: 0.12660395418290926 using RadialVarianceHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(3)  0.359375
+	PHash: 			(3)  0.359375
+	BlockMeanHash: 		(11)  0.296875
+	MarrHildrethHash: 	(1)  0.4461805555555556
+	RadialVarianceHash: 	(11)  0.12660395418290926
+---------------------------------------------------
+crop_3.png:
+	Best Score: 0.1810723306496984 using RadialVarianceHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(1)  0.3125
+	PHash: 			(2)  0.421875
+	BlockMeanHash: 		(1)  0.390625
+	MarrHildrethHash: 	(3)  0.4618055555555556
+	RadialVarianceHash: 	(11)  0.1810723306496984
+---------------------------------------------------
+crop_4.png:
+	Best Score: 0.22173546223563334 using RadialVarianceHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(3)  0.421875
+	PHash: 			(2)  0.390625
+	BlockMeanHash: 		(1)  0.40625
+	MarrHildrethHash: 	(8)  0.4496527777777778
+	RadialVarianceHash: 	(11)  0.22173546223563334
+---------------------------------------------------
+crop_5.png:
+	Best Score: 0.27910471224703937 using RadialVarianceHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(2)  0.4375
+	PHash: 			(1)  0.40625
+	BlockMeanHash: 		(12)  0.38671875
+	MarrHildrethHash: 	(8)  0.453125
+	RadialVarianceHash: 	(11)  0.27910471224703937
+---------------------------------------------------
+crop_6.png:
+	Best Score: 0.34375 using AverageHash
+	Image Found: images/experiment/woman_darkhair.tif (12)
+
+	AverageHash: 		(12)  0.34375
+	PHash: 			(6)  0.375
+	BlockMeanHash: 		(1)  0.40234375
+	MarrHildrethHash: 	(2)  0.4618055555555556
+	RadialVarianceHash: 	(11)  0.3939901490367531
+---------------------------------------------------
+crop_7.png:
+	Best Score: 0.3203125 using BlockMeanHash
+	Image Found: images/experiment/woman_darkhair.tif (12)
+
+	AverageHash: 		(12)  0.375
+	PHash: 			(12)  0.421875
+	BlockMeanHash: 		(12)  0.3203125
+	MarrHildrethHash: 	(4)  0.4756944444444444
+	RadialVarianceHash: 	(2)  0.48311272285256923
+---------------------------------------------------
+crop_8.png:
+	Best Score: 0.33075533411401825 using RadialVarianceHash
+	Image Found: images/experiment/lake.tif (4)
+
+	AverageHash: 		(11)  0.359375
+	PHash: 			(9)  0.453125
+	BlockMeanHash: 		(11)  0.34375
+	MarrHildrethHash: 	(6)  0.4739583333333333
+	RadialVarianceHash: 	(4)  0.33075533411401825
+---------------------------------------------------
+crop_9.png:
+	Best Score: 0.24110260736376032 using RadialVarianceHash
+	Image Found: images/experiment/mandril_color.tif (7)
+
+	AverageHash: 		(2)  0.40625
+	PHash: 			(7)  0.421875
+	BlockMeanHash: 		(10)  0.421875
+	MarrHildrethHash: 	(12)  0.4618055555555556
+	RadialVarianceHash: 	(7)  0.24110260736376032
+---------------------------------------------------
+---------------------------------------------------
+
+
+---------------------------------------------------
+---------------------------------------------------
+flip_both.png:
+	Best Score: 0.009278216548884277 using RadialVarianceHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(2)  0.421875
+	PHash: 			(6)  0.40625
+	BlockMeanHash: 		(10)  0.37109375
+	MarrHildrethHash: 	(9)  0.4375
+	RadialVarianceHash: 	(11)  0.009278216548884277
+---------------------------------------------------
+flip_horizontal.png:
+	Best Score: 0.359375 using AverageHash
+	Image Found: images/experiment/walkbridge.tif (10)
+
+	AverageHash: 		(10)  0.359375
+	PHash: 			(11)  0.390625
+	BlockMeanHash: 		(10)  0.40234375
+	MarrHildrethHash: 	(11)  0.453125
+	RadialVarianceHash: 	(1)  0.42509908698653975
+---------------------------------------------------
+flip_vertical.png:
+	Best Score: 0.21875 using BlockMeanHash
+	Image Found: images/experiment/woman_blonde.tif (11)
+
+	AverageHash: 		(11)  0.3125
+	PHash: 			(11)  0.28125
+	BlockMeanHash: 		(11)  0.21875
+	MarrHildrethHash: 	(11)  0.3975694444444444
+	RadialVarianceHash: 	(1)  0.3955526840323532
+---------------------------------------------------
